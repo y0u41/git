@@ -1,0 +1,8 @@
+{
+  "models": [{
+    "title": "Qwen Local",
+    "provider": "openai-compatible",
+    "model": "qwen3.8-9b",
+    "apiBase": "http://127.0.0.1:1234/v1"
+  }]
+}
