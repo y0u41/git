@@ -1,0 +1,15 @@
+.about-subtitle {
+  margin: 0 0 12px;
+  font-size: 18px;
+}
+
+.tech-list {
+  margin: 0 0 28px;
+  padding: 0 0 0 20px;
+  color: var(--color-muted);
+  line-height: 2;
+}
+
+.tech-list strong {
+  color: var(--color-text);
+}
