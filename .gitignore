@@ -55,3 +55,6 @@ temp/
 # 其他
 *.cache
 .cache/
+
+# AI 助手本地配置
+.continue/
